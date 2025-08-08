@@ -1,0 +1,16 @@
+C:\Users\PHIL\Downloads\TEST_0808\bin\Debug\net8.0-windows\TEST_0808.exe
+C:\Users\PHIL\Downloads\TEST_0808\bin\Debug\net8.0-windows\TEST_0808.deps.json
+C:\Users\PHIL\Downloads\TEST_0808\bin\Debug\net8.0-windows\TEST_0808.runtimeconfig.json
+C:\Users\PHIL\Downloads\TEST_0808\bin\Debug\net8.0-windows\TEST_0808.dll
+C:\Users\PHIL\Downloads\TEST_0808\bin\Debug\net8.0-windows\TEST_0808.pdb
+C:\Users\PHIL\Downloads\TEST_0808\obj\Debug\net8.0-windows\TEST_0808.Form1.resources
+C:\Users\PHIL\Downloads\TEST_0808\obj\Debug\net8.0-windows\TEST_0808.csproj.GenerateResource.cache
+C:\Users\PHIL\Downloads\TEST_0808\obj\Debug\net8.0-windows\TEST_0808.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHIL\Downloads\TEST_0808\obj\Debug\net8.0-windows\TEST_0808.AssemblyInfoInputs.cache
+C:\Users\PHIL\Downloads\TEST_0808\obj\Debug\net8.0-windows\TEST_0808.AssemblyInfo.cs
+C:\Users\PHIL\Downloads\TEST_0808\obj\Debug\net8.0-windows\TEST_0808.csproj.CoreCompileInputs.cache
+C:\Users\PHIL\Downloads\TEST_0808\obj\Debug\net8.0-windows\TEST_0808.dll
+C:\Users\PHIL\Downloads\TEST_0808\obj\Debug\net8.0-windows\refint\TEST_0808.dll
+C:\Users\PHIL\Downloads\TEST_0808\obj\Debug\net8.0-windows\TEST_0808.pdb
+C:\Users\PHIL\Downloads\TEST_0808\obj\Debug\net8.0-windows\TEST_0808.genruntimeconfig.cache
+C:\Users\PHIL\Downloads\TEST_0808\obj\Debug\net8.0-windows\ref\TEST_0808.dll
