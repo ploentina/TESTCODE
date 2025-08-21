@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PHIL\\Downloads\\TEST_0808\\",
+  "WorkspaceRootPath": "C:\\Users\\PHIL\\Downloads\\08_21_TEST\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F202189-EC4D-46C2-B964-098770106F49}|TEST_0808.csproj|c:\\users\\phil\\downloads\\test_0808\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F202189-EC4D-46C2-B964-098770106F49}|TEST_0808.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F202189-EC4D-46C2-B964-098770106F49}|TEST_0808.csproj|C:\\Users\\PHIL\\Downloads\\08_21_TEST\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F202189-EC4D-46C2-B964-098770106F49}|TEST_0808.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F202189-EC4D-46C2-B964-098770106F49}|TEST_0808.csproj|c:\\users\\phil\\downloads\\test_0808\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1F202189-EC4D-46C2-B964-098770106F49}|TEST_0808.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1F202189-EC4D-46C2-B964-098770106F49}|TEST_0808.csproj|c:\\users\\phil\\downloads\\08_21_test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F202189-EC4D-46C2-B964-098770106F49}|TEST_0808.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,15 +18,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\PHIL\\Downloads\\TEST_0808\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PHIL\\Downloads\\08_21_TEST\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\PHIL\\Downloads\\TEST_0808\\Form1.cs",
+              "ToolTip": "C:\\Users\\PHIL\\Downloads\\08_21_TEST\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -35,11 +35,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\PHIL\\Downloads\\TEST_0808\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PHIL\\Downloads\\08_21_TEST\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\PHIL\\Downloads\\TEST_0808\\Form1.cs [\uB514\uC790\uC778]",
+              "ToolTip": "C:\\Users\\PHIL\\Downloads\\08_21_TEST\\Form1.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "Form1.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-08T00:45:08.208Z",
